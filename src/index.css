@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  font-family: "Inter", sans-serif;
+}
+
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+
+}
+.bgbtn{
+  background: linear-gradient(81.62deg, #2870EA 8.72%, #1B4AEF 85.01%);
+
+}
